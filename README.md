@@ -12,15 +12,15 @@ Hi
 
 Инструкция
 
-1.Открываете , нажимаете Корзина покупателя
+Открываете , нажимаете Корзина покупателя
 
 ![image](https://github.com/SemenSMR/Information1c/assets/124078571/2377e09f-b180-4e9d-9f6b-ac3ae5c92e18)
 
-2. Выбираете склад (оптовый склад) в одной заявке склад выбран по умолчанию
+ Выбираете склад (оптовый склад) в одной заявке склад выбран по умолчанию
 
  ![image](https://github.com/SemenSMR/Information1c/assets/124078571/230059b0-a98e-4896-b088-8e63d0511606)
 
-3. Подобрать товар
+ Подобрать товар
 
  ![image](https://github.com/SemenSMR/Information1c/assets/124078571/8fc3ab5d-4dca-449c-862b-fcad1c124de1)
 
@@ -32,16 +32,16 @@ Hi
 
 ![image](https://github.com/SemenSMR/Information1c/assets/124078571/7532c795-57e9-4105-bd0f-a86e611af6b1)
 
-4. Жмем оформить заказ 
+ Жмем оформить заказ 
 
 
 ![image](https://github.com/SemenSMR/Information1c/assets/124078571/ac270682-e600-46a7-b4ff-0cb5e35b2b48)
 
 
 
-5. Форма оплаты ставим наличная и делее
+ Форма оплаты ставим наличная и делее
 
-6. Проверяем , далее
+ Проверяем , далее
 
 ![image](https://github.com/SemenSMR/Information1c/assets/124078571/374d3b65-bc69-4b31-b9ee-978c7ef693b0)
 
