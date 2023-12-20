@@ -30,9 +30,10 @@ Hi
 
 ![image](https://github.com/SemenSMR/Information1c/assets/124078571/7532c795-57e9-4105-bd0f-a86e611af6b1)
 
-5. Жмем оформить заказ 
 
 ![image](https://github.com/SemenSMR/Information1c/assets/124078571/ac270682-e600-46a7-b4ff-0cb5e35b2b48)
+
+5. Жмем оформить заказ 
 
 6. Форма оплаты ставим наличная и делее
 
