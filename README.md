@@ -3,6 +3,8 @@ Hi
 
 ЕСЛИ вы видите это , заказываем уже через них.
 
+Сначало первую , потом вторую 
+
 ![image](https://github.com/SemenSMR/Information1c/assets/124078571/227d5027-a72a-475c-91c5-8e923defe04b)
 
 
